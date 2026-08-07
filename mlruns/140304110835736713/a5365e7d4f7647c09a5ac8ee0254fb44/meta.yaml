@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/HeartDisease_MLOps/mlruns/140304110835736713/a5365e7d4f7647c09a5ac8ee0254fb44/artifacts
+end_time: 1786126972714
+entry_point_name: ''
+experiment_id: '140304110835736713'
+lifecycle_stage: active
+run_id: a5365e7d4f7647c09a5ac8ee0254fb44
+run_name: Decision Tree
+run_uuid: a5365e7d4f7647c09a5ac8ee0254fb44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786126969951
+status: 3
+tags: []
+user_id: Rhea Jenifer

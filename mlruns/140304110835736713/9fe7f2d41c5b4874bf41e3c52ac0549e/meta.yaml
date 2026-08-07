@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/HeartDisease_MLOps/mlruns/140304110835736713/9fe7f2d41c5b4874bf41e3c52ac0549e/artifacts
+end_time: 1786127224645
+entry_point_name: ''
+experiment_id: '140304110835736713'
+lifecycle_stage: active
+run_id: 9fe7f2d41c5b4874bf41e3c52ac0549e
+run_name: Random Forest
+run_uuid: 9fe7f2d41c5b4874bf41e3c52ac0549e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786127221929
+status: 3
+tags: []
+user_id: Rhea Jenifer

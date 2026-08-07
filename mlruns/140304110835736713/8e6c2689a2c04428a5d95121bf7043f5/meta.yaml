@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/HeartDisease_MLOps/mlruns/140304110835736713/8e6c2689a2c04428a5d95121bf7043f5/artifacts
+end_time: 1786126969943
+entry_point_name: ''
+experiment_id: '140304110835736713'
+lifecycle_stage: active
+run_id: 8e6c2689a2c04428a5d95121bf7043f5
+run_name: Logistic Regression
+run_uuid: 8e6c2689a2c04428a5d95121bf7043f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786126965839
+status: 3
+tags: []
+user_id: Rhea Jenifer
